@@ -1,0 +1,31 @@
+w haskellu zdaje sie jet jet jest takie cos taka dziwna zmianna zmienna czy cos realworld nie pamietam nazwy dokladnie ale to e tym sie wlasnie IO a charakteryzuje zdaje sie
+
+i to chyba jest efektywnie troche cos podobnego co wykrzyknik to ciecie z cale w prologu tak wstepnie sie nad tym zastanawiam
+
+tj jest to z oznaczenie niedeteri niedeterminizmu z  ze tutaj juz nie ma n referencyjnej transparentnosci ze tu sie skonczyla matematyka a jest tam ten tak zwany swiat zewnetzrny jakies urzadzenia sieciowe le elektroniczne czy costam
+
+tj jakietam ja tam cokolwiek co wypisuje np na konsole z jakies prin w prologu to mogloby miec nazwy z wykryzy k w z wykrzyknikkie wy z wykrzyknikiem jakby tak oznaczone troche
+
+cos jak w scheme czy lisp ze jest konwencja ze pytajnik predykaty sie litera p oznacza nazwy  cos troche podobnego do notacji wegierskiej lekko troche ze sie koduje jakby typy w nazwach
+
+
+
+
+o lean cztery czytalem ze nie jest lazy ale yw wy;da wydaje sie ok i nie ma odsmiecr odsmiecarki takze spoko jest cos obok haskella ciekawego
+
+w zasadzie to ze nie jest lazy to sie mozna czepiac albo nie nie iwme wiem dokladnie niby jezyki lazy sa lepsze tak intuicyjnie ale te lazy jezyki ostatecznie k gdzies pod spodem tez beda nie lazy 
+
+jak sie interaktywnie korzysta z proo p z prologu po prologa to jakbyt te kolejne podstawienia sa jakby lazy w sposob lazy wyliczane i jakby w jas hw haskellu absolutnie wszystko jest lazy wylicznae zdaje sie
+
+
+
+odnosnie tego czym jest defmacro w lispie i cyzm sie rozni od eval a to jest jakby chyba poziom literate programming tj jest to daka taka taki troche kod dokumentujacy sie bo tak jak w jakich jesz mo no mozne czym
+
+sie rozni o   if  od  tr   if then else  od try excpet finally czy cos t cos tw w ten desen jakby   tj matematycznie do to samo mozna zapisac ale jab jakby intencja programisty jest dokumentowana zapisaywana j jak
+
+  sie korzysta z tych odmiennych roznych konstrukcji    zeby nie bylo jakby najciekawsza rzecz w lispie to jest ze scope nie jest ten chyba lexical tylko ale dynamic co sie obecnie rzadko zdarza taka konwencja w jezykach programowania
+
+
+  i co czytajac t dokumentajce do lean4 trafilem na fragment ze typolkl typoklasy leanya leana to jest jakis lambda prolog takze taki pomysl zapisalem odnosnie haskella wczesniej jw w jakims innym pliku a tego nie czytalem
+
+takze widac jakimi metodami jakby pomysly albo sie wymyslajaja albo przeciekaja miedzy ludzmi
